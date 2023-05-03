@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * _puts - Function that prints a string
- * followed by a new line
- * @str: pointer to the string to print
+ * _puts - Function that prints a string, followed by a new line, to stdout 
+ * @str: string to be printed
  */
 void _puts(char *str)
 {
