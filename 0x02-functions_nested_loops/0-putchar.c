@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Print _putchar
+ * main - A program that Prints _putchar then a new line
  * Return: 0
  */
 int main(void)
